@@ -1,2 +1,3 @@
-public class HavingsSuperAbility {
+public interface HavingSuperAbility {
+    void applySuperAbility();
 }

@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Magic {
+public class Magic extends  Hero{
+    @Override
+    public void heal() {
+        System.out.println("Magic применил CRITICAL DAMAGE");
+
+    }
 }
